@@ -16,12 +16,3 @@
 
 </html>
 
-<style>
-body{
-text-align: center;
-}
-  .d1{
-    background-color: #E7CFFA;
-  }
-  
-</style>
