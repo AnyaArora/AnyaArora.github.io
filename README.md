@@ -1,4 +1,5 @@
 # AnyaArora.github.io
+<!DOCTYPE html>
 <html>
 <head>
   <title>
@@ -14,3 +15,13 @@
 </body>
 
 </html>
+
+<style>
+body{
+text-align: center;
+}
+  .d1{
+    background-color: #E7CFFA;
+  }
+  
+</style>
